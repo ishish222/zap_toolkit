@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "zap_toolkit"
-version = "0.0.1"
-description = "Coming soon"
+version = "0.0.2"
+description = "Using ZAP API as tools in LLM-agentic systems"
 authors = ["Tomasz Salacinski <tomasz.salacinski@sedivio.com>"]
 readme = "README.md"
 
